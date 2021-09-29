@@ -1,0 +1,9 @@
+C:\testing demo\testJenkinMsTestGit\testJenkinMsTestGit\bin\Debug\testJenkinMsTestGit.dll
+C:\testing demo\testJenkinMsTestGit\testJenkinMsTestGit\bin\Debug\testJenkinMsTestGit.pdb
+C:\testing demo\testJenkinMsTestGit\testJenkinMsTestGit\obj\Debug\testJenkinMsTestGit.dll
+C:\testing demo\testJenkinMsTestGit\testJenkinMsTestGit\obj\Debug\testJenkinMsTestGit.pdb
+C:\testing demo\testJenkinMsTestGit\testJenkinMsTestGit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\testing demo\testJenkinMsTestGit\testJenkinMsTestGit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\testing demo\testJenkinMsTestGit\testJenkinMsTestGit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\testing demo\testJenkinMsTestGit\testJenkinMsTestGit\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\testing demo\testJenkinMsTestGit\testJenkinMsTestGit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
